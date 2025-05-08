@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/algerr/nft-pokedex.git"
+    "url": "git+https://github.com/algerr/Pokemon-NFT-Trading-App.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/algerr/nft-pokedex/issues"
+    "url": "https://github.com/algerr/Pokemon-NFT-Trading-App/issues"
   },
-  "homepage": "https://github.com/algerr/nft-pokedex#readme",
+  "homepage": "https://github.com/algerr/Pokemon-NFT-Trading-App#readme",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
     "@openzeppelin/contracts": "^4.9.6",
